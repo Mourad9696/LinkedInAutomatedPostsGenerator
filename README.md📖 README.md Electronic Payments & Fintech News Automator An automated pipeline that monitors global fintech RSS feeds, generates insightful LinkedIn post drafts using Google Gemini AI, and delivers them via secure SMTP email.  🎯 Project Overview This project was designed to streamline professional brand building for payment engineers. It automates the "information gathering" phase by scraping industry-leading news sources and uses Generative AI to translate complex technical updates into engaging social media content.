@@ -1,0 +1,7 @@
+📖 README.md
+Electronic Payments & Fintech News Automator
+An automated pipeline that monitors global fintech RSS feeds, generates insightful LinkedIn post drafts using Google Gemini AI, and delivers them via secure SMTP email.
+
+🎯 Project Overview
+This project was designed to streamline professional brand building for payment engineers. It automates the "information gathering"
+phase by scraping industry-leading news sources and uses Generative AI to translate complex technical updates into engaging social media content.
