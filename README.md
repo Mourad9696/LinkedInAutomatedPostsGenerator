@@ -36,6 +36,7 @@ Your LinkedIn account connected to Make.com.
 🏗️ Setup Instructions
 _______________________
 
+
 The Code: Clone this repository and open the Python script.
 
 The Keys: Paste your Gemini API key into the GOOGLE_AI_KEY variable.
@@ -48,3 +49,5 @@ Make.com Modules: Connect your Webhook to an "HTTP - Download a file" module (to
 _______________________
 
 Simply hit run on the Python file. It will fetch the news, generate the post, send it to Make.com, and print a success message in the terminal when it's done!
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_r2sr11r2sr11r2sr" src="https://github.com/user-attachments/assets/bbacc42b-f1a5-4900-b199-6f647cadbed4" />
